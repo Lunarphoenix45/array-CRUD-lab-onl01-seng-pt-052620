@@ -7,7 +7,8 @@ random_numbers = [1,2,3,4]
 end
 
 def add_element_to_end_of_array(array, element)
- random_numbers.push("5")
+random_numbers [1,2,3,4]
+ random_numbers.push(5)
 end
 
 def add_element_to_start_of_array(array, element)
